@@ -1,0 +1,12 @@
+﻿main.obj : error LNK2005: "unsigned int __cdecl VARS::GetModuleBaseAddress(unsigned long,wchar_t const *)" (?GetModuleBaseAddress@VARS@@YAIKPB_W@Z) já definida no aimbot.obj
+main.obj : error LNK2005: "unsigned long __cdecl VARS::GetProcess(wchar_t const *)" (?GetProcess@VARS@@YAKPB_W@Z) já definida no aimbot.obj
+main.obj : error LNK2005: "unsigned long VARS::processId" (?processId@VARS@@3KA) já definida no aimbot.obj
+main.obj : error LNK2005: "unsigned int VARS::baseAddress" (?baseAddress@VARS@@3IA) já definida no aimbot.obj
+main.obj : error LNK2005: "void * VARS::processHandle" (?processHandle@VARS@@3PAXA) já definida no aimbot.obj
+memory.obj : error LNK2005: "unsigned int __cdecl VARS::GetModuleBaseAddress(unsigned long,wchar_t const *)" (?GetModuleBaseAddress@VARS@@YAIKPB_W@Z) já definida no aimbot.obj
+memory.obj : error LNK2005: "unsigned long __cdecl VARS::GetProcess(wchar_t const *)" (?GetProcess@VARS@@YAKPB_W@Z) já definida no aimbot.obj
+memory.obj : error LNK2005: "unsigned long VARS::processId" (?processId@VARS@@3KA) já definida no aimbot.obj
+memory.obj : error LNK2005: "unsigned int VARS::baseAddress" (?baseAddress@VARS@@3IA) já definida no aimbot.obj
+memory.obj : error LNK2005: "void * VARS::processHandle" (?processHandle@VARS@@3PAXA) já definida no aimbot.obj
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo não resolvido, _main, referenciado na função "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\deger\OneDrive\Documentos\external-cheat-base-master (1)\external-cheat-base-master\Debug\external-cheat-base.exe : fatal error LNK1120: 1 externo não resolvidos

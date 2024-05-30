@@ -1,0 +1,8 @@
+﻿  aimbot.cpp
+  main.cpp
+C:\Users\deger\OneDrive\Documentos\external-cheat-base-master (1)\external-cheat-base-master\external-cheat-base\aimbot.cpp(11,13): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\deger\OneDrive\Documentos\external-cheat-base-master (1)\external-cheat-base-master\external-cheat-base\aimbot.cpp(41,94): warning C4390: ';': instrução controlada vazia encontrada; é esta a intenção?
+C:\Users\deger\OneDrive\Documentos\external-cheat-base-master (1)\external-cheat-base-master\external-cheat-base\main.cpp(11,61): warning C4244: 'argumento': conversão de 'uintptr_t' para 'DWORD', possível perda de dados
+  memory.cpp
+  Gerando Código...
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'd3dx9.lib'
